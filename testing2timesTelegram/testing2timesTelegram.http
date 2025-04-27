@@ -1,0 +1,6 @@
+@testing2timesTelegram_HostAddress = http://localhost:5230
+
+GET {{testing2timesTelegram_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
