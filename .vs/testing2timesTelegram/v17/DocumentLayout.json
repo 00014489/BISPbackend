@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\WIUT\\testing2times\\testing2timesTelegram\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{509C0EB6-13B4-487B-90F1-0409B35B49C1}|testing2timesTelegram\\testing2timesTelegram.csproj|d:\\wiut\\testing2times\\testing2timestelegram\\testing2timestelegram\\controllers\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{509C0EB6-13B4-487B-90F1-0409B35B49C1}|testing2timesTelegram\\testing2timesTelegram.csproj|solutionrelative:testing2timestelegram\\controllers\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{509C0EB6-13B4-487B-90F1-0409B35B49C1}|testing2timesTelegram\\testing2timesTelegram.csproj|d:\\wiut\\testing2times\\testing2timestelegram\\testing2timestelegram\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{509C0EB6-13B4-487B-90F1-0409B35B49C1}|testing2timesTelegram\\testing2timesTelegram.csproj|solutionrelative:testing2timestelegram\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509C0EB6-13B4-487B-90F1-0409B35B49C1}|testing2timesTelegram\\testing2timesTelegram.csproj|d:\\wiut\\testing2times\\testing2timestelegram\\testing2timestelegram\\controllers\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{509C0EB6-13B4-487B-90F1-0409B35B49C1}|testing2timesTelegram\\testing2timesTelegram.csproj|solutionrelative:testing2timestelegram\\controllers\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{509C0EB6-13B4-487B-90F1-0409B35B49C1}|testing2timesTelegram\\testing2timesTelegram.csproj|d:\\wiut\\testing2times\\testing2timestelegram\\testing2timestelegram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,29 +58,31 @@
               "RelativeToolTip": "testing2timesTelegram\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T05:38:49.895Z"
+              "WhenOpened": "2025-04-26T05:38:49.895Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\WIUT\\testing2times\\testing2timesTelegram\\testing2timesTelegram\\appsettings.json",
               "RelativeDocumentMoniker": "testing2timesTelegram\\appsettings.json",
               "ToolTip": "D:\\WIUT\\testing2times\\testing2timesTelegram\\testing2timesTelegram\\appsettings.json",
               "RelativeToolTip": "testing2timesTelegram\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAByAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-26T05:38:26.234Z"
+              "WhenOpened": "2025-04-26T05:38:26.234Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MusicController.cs",
               "DocumentMoniker": "D:\\WIUT\\testing2times\\testing2timesTelegram\\testing2timesTelegram\\Controllers\\MusicController.cs",
               "RelativeDocumentMoniker": "testing2timesTelegram\\Controllers\\MusicController.cs",
               "ToolTip": "D:\\WIUT\\testing2times\\testing2timesTelegram\\testing2timesTelegram\\Controllers\\MusicController.cs",
               "RelativeToolTip": "testing2timesTelegram\\Controllers\\MusicController.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAAAFAAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T05:36:36.704Z",
               "EditorCaption": ""
