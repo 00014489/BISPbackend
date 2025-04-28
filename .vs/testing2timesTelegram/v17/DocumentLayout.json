@@ -56,7 +56,7 @@
               "RelativeDocumentMoniker": "testing2timesTelegram\\Program.cs",
               "ToolTip": "D:\\WIUT\\testing2times\\testing2timesTelegram\\testing2timesTelegram\\Program.cs",
               "RelativeToolTip": "testing2timesTelegram\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T05:38:49.895Z",
               "EditorCaption": ""
@@ -71,8 +71,7 @@
               "RelativeToolTip": "testing2timesTelegram\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-26T05:38:26.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T05:38:26.234Z"
             },
             {
               "$type": "Document",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "testing2timesTelegram\\Controllers\\MusicController.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAqwFAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T05:36:36.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T05:36:36.704Z"
             }
           ]
         }
